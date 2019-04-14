@@ -1,6 +1,7 @@
 # Flappy-Pig WebGame
 
 Instruction:
--using spacebar to move-up the flappy pig
 
--using any other key with spacebar to double the move-up speed
+-Press 'Spacebar' to move-up the pig
+
+-Press 'Spacebar' + 'anykey' to double the move-up speed
